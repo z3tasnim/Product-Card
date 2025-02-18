@@ -3,8 +3,8 @@ export default function App() {
     <div className=" bg-[#f3eae3] min-h-screen flex justify-center items-center">
       <div className=" w-[90%] max-w-lg bg-white mx-auto shadow-md my-7 flex flex-col justify-center overflow-hidden rounded-lg md:h-[400px] md:flex md:flex-row">
         <div className="w-full md:flex-2">
-          <img className="md:hidden" src="/images/image-product-mobile.jpg" alt="Product" />
-          <img className="hidden md:block md:w-full md:h-full" src="/images/image-product-desktop.jpg" alt="Product" />
+          <img className="md:hidden" src="/Product-Card/images/image-product-mobile.jpg" alt="Product" />
+          <img className="hidden md:block md:w-full md:h-full" src="/Product-Card/images/image-product-desktop.jpg" alt="Product" />
         </div>
         <div className="space-y-4 p-6 md:flex-1">
           <div className="space-y-4">
@@ -26,7 +26,7 @@ export default function App() {
             </div>
           </div>
           <button className="bg-[#3d8168] flex space-x-3 w-full justify-center items-center p-2 rounded-lg">
-            <img src="/images/icon-cart.svg" alt="cart" />
+            <img src="/Product-Card/images/icon-cart.svg" alt="cart" />
             <p className="text-white font-montserrat font-medium">Add to Cart</p>
           </button>
         </div>
