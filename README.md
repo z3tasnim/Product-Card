@@ -2,6 +2,9 @@
 
 A sleek and responsive product card built with **HTML** and **Tailwind CSS**, integrated in a React + Vite setup. Ideal for showcasing product details like image, title, price, and CTA (Add to Cart or Buy Now).
 
+## 🔗 Live Demo  
+[Click here to view the Product Card](https://z3tasnim.github.io/Product-Card/)
+
 ## 🚀 Features
 
 - Responsive design
